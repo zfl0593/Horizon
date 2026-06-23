@@ -1,4 +1,4 @@
-name: Daily Horizon Summary
+name: mine Daily Horizon Summary
 
 on:
   schedule:
